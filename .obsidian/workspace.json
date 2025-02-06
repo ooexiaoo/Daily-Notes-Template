@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "f1e43f9eff565bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4bc683aef099f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec51aa42c20aeb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-05"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "359d36cc29854a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ac2670dc735250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d588bd431e08bc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e462a7790b93a6d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f7ae7cdeaadffba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "abf3630eeebb20d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e1ff4c3c0cbc8a",
+        "type": "tabs",
+        "dimension": 29.324699352451436,
+        "children": [
+          {
+            "id": "3314cc973d414c08",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a4e12e6ad4c54918",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-05"
+            }
+          },
+          {
+            "id": "099a06033a843d11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-05"
+            }
+          },
+          {
+            "id": "829ed24546c6a964",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2666d97e5a2cd385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-05"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0eeb85a51133658a",
+        "type": "tabs",
+        "dimension": 38.482886216466234,
+        "children": [
+          {
+            "id": "a1b7d23b5cb69b85",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Logs/📓 Daily Notes/2025-02/2025-02-05.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025-02-05"
+            }
+          },
+          {
+            "id": "2c3d0019bedaacda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bcfeafec004dd91b",
+        "type": "tabs",
+        "dimension": 32.192414431082334,
+        "children": [
+          {
+            "id": "014515fca932891a",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {},
+              "icon": "clock",
+              "title": "Toggl Report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ec51aa42c20aeb6f",
+  "lastOpenFiles": [
+    "Logs/🗓 Monthly Notes/2025/2025-02.md",
+    "Templates/🗓 Monthly Notes.md",
+    "Logs/🗓 Monthly Notes/2025",
+    "Logs/🗓 Monthly Notes/Untitled.md",
+    "Templates/🗓 Weekly Note.md",
+    "Logs/📅 Weekly Notes/2025-02/2025-W06.md",
+    "People/Elon Musk.md",
+    "Logs/📅 Weekly Notes/2025-02",
+    "Templates/People.md",
+    "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
+    "People",
+    "Templates/🗓 Daily Notes.md",
+    "Trackers/Fasting Tracker.md",
+    "Supported Statuses.md",
+    "Trackers/People's MOC.md",
+    "Trackers",
+    "Logs/📓 Daily Notes/2025-02",
+    "READ ME.md",
+    "Logs/🗓 Monthly Notes",
+    "Logs/📅 Weekly Notes",
+    "Logs/📅 Weekly Notes.md",
+    "Logs",
+    "Logs/📓 Daily Notes",
+    "Templates"
+  ]
+}
