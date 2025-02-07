@@ -6,6 +6,7 @@ banner_y: 0.4375
 banner_icon:
 banner_icon: 📌
 ---
+Tags:: #Weekly_Notes
 **Previous Week -** [[<% tp.date.now("YYYY-[W]WW", +1) %>]]
 **Next Week -** [[<% tp.date.now("YYYY-[W]WW", +7) %>]]
 

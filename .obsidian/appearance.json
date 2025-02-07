@@ -1,7 +1,12 @@
 {
-  "cssTheme": "Minimal",
-  "accentColor": "#19f064",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#f01939",
   "showViewHeader": true,
   "nativeMenus": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "Rainbow Tags",
+    "Cards"
+  ]
 }

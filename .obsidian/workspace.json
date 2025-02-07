@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4bc683aef099f11",
+        "id": "d50095c421c1c4d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ec51aa42c20aeb6f",
+            "id": "1082ac6f9676396f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-02-05"
+              "title": "New tab"
             }
           }
         ]
@@ -174,11 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Logs/📓 Daily Notes/2025-02/2025-02-05.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2025-02-05"
+              "title": "File properties"
             }
           },
           {
@@ -224,34 +218,40 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ec51aa42c20aeb6f",
+  "active": "1082ac6f9676396f",
   "lastOpenFiles": [
     "Logs/🗓 Monthly Notes/2025/2025-02.md",
+    "Logs/📅 Weekly Notes/2025-02/2025-W06.md",
+    "Logs/📓 Daily Notes/2025-02/2025-02-07.md",
+    "READ ME.md",
+    "Instructions/Supported Statuses.md",
+    "Logs/📓 Daily Notes/2025-02/2025-02-04.md",
+    "Instructions/Images/Enter API.webp",
+    "Instructions/Images/Todoist API.webp",
+    "Instructions/Images",
+    "Instructions",
+    "Logs/📓 Daily Notes/2025-02/2025-02-06.md",
     "Templates/🗓 Monthly Notes.md",
+    "Templates/🗓 Weekly Note.md",
+    "Templates/🗓 Daily Notes.md",
+    "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
     "Logs/🗓 Monthly Notes/2025",
     "Logs/🗓 Monthly Notes/Untitled.md",
-    "Templates/🗓 Weekly Note.md",
-    "Logs/📅 Weekly Notes/2025-02/2025-W06.md",
     "People/Elon Musk.md",
     "Logs/📅 Weekly Notes/2025-02",
     "Templates/People.md",
-    "Logs/📓 Daily Notes/2025-02/2025-02-05.md",
     "People",
-    "Templates/🗓 Daily Notes.md",
     "Trackers/Fasting Tracker.md",
-    "Supported Statuses.md",
     "Trackers/People's MOC.md",
     "Trackers",
     "Logs/📓 Daily Notes/2025-02",
-    "READ ME.md",
     "Logs/🗓 Monthly Notes",
     "Logs/📅 Weekly Notes",
     "Logs/📅 Weekly Notes.md",
-    "Logs",
-    "Logs/📓 Daily Notes",
-    "Templates"
+    "Logs"
   ]
 }

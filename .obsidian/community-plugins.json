@@ -1,10 +1,12 @@
 [
   "obsidian-banners",
   "dataview",
-  "obsidian-style-settings",
   "todoist-sync-plugin",
   "obsidian-toggl-integration",
   "templater-obsidian",
   "periodic-notes",
-  "calendar"
+  "calendar",
+  "obsidian-tasks-plugin",
+  "heatmap-tracker",
+  "obsidian-style-settings"
 ]
